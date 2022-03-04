@@ -2,7 +2,7 @@
   "name": "oyojapan",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://localhost:3000/oyo-japan/",
+  "homepage": "https://darshankatthige.github.io/Tokyo-Ramen-shop",
   "proxy": "http://webservice.recruit.co.jp",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
@@ -11,6 +11,7 @@
     "axios": "^0.26.0",
     "bootstrap": "^5.0.0-alpha3",
     "dom-parser": "^0.1.6",
+    "gh-pages": "^3.2.3",
     "loadsh": "0.0.4",
     "node-sass": "^7.0.1",
     "react": "^17.0.2",
@@ -25,6 +26,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
