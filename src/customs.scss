@@ -1,0 +1,7 @@
+// Custom.scss
+$body-bg: #303030; // SCSS Variable of BackGround color of app
+$body-color: #fff; //SCSS Variable of Color
+$primary: rgb(192, 99, 118); // SCSS Variable of Bootstrap Primary color
+
+// 1. Include functions first (so you can manipulate colors, SVGs, calc, etc)
+@import "../node_modules/bootstrap/scss/bootstrap.scss";

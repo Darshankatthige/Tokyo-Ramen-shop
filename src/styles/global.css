@@ -1,0 +1,102 @@
+.ramen-bowl-logo {
+  width: 60px;
+  height: 60px;
+}
+.app-title {
+  font-family: "Righteous";
+  font-style: normal;
+  font-weight: normal;
+  line-height: 36px;
+  display: flex;
+  align-items: center;
+  text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+}
+.resturant-name {
+  font-family: "Roboto";
+  font-weight: bold;
+  white-space: nowrap;
+  width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  cursor: context-menu;
+}
+.resturant-address {
+  font-family: "Roboto";
+  white-space: nowrap;
+  width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  color: #c5c5c5;
+  cursor: context-menu;
+}
+
+.form-control {
+  color: #fff !important;
+  background-color: #212121 !important;
+  border: 1px solid #303030 !important;
+  border-radius: 0.7rem !important;
+  padding: 0.7rem !important;
+}
+
+.list-footer {
+  font-family: "Roboto";
+}
+.list-footer .bold {
+  font-weight: bold;
+}
+.resturant-catch-line {
+  min-height: 45px;
+  color: #c5c5c5;
+  cursor: context-menu;
+}
+
+.no-shops-available {
+  font-weight: bold;
+  font-size: 1rem;
+}
+
+.error-message {
+  font-weight: bold;
+  color: red;
+}
+
+
+.topShopRate {
+  width: 50px !important;
+  height: 50px !important;
+}
+
+.circle {
+  width: 35px;
+  height: 35px;
+  line-height: 35px;
+  border-radius: 50%;
+  font-size: 12px;
+  color: #212121;
+  text-align: center;
+  background: #fff;
+  font-weight: bold;
+  font-size: 21px;
+  font-family: "Righteous";
+}
+
+.card {
+  background-color: #212121 !important;
+  box-shadow: 3px 3px 1px #303030 !important;
+}
+.ratingAvatar {
+  width: 50px;
+  height: 50px;
+}
+.fa {
+  min-width: 40px !important;
+}
+.resturant-card-names {
+  width: 90% !important;
+}
+.resturant-close{
+  color: #c5c5c5;
+}
+.resturant-parking{
+  color: #c5c5c5;
+}
