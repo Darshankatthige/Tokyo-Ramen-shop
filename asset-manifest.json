@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Tokyo-Ramen-shop/static/css/main.1605758b.css",
+    "main.js": "/Tokyo-Ramen-shop/static/js/main.7de2c877.js",
+    "static/js/787.1c18ff26.chunk.js": "/Tokyo-Ramen-shop/static/js/787.1c18ff26.chunk.js",
+    "index.html": "/Tokyo-Ramen-shop/index.html",
+    "main.1605758b.css.map": "/Tokyo-Ramen-shop/static/css/main.1605758b.css.map",
+    "main.7de2c877.js.map": "/Tokyo-Ramen-shop/static/js/main.7de2c877.js.map",
+    "787.1c18ff26.chunk.js.map": "/Tokyo-Ramen-shop/static/js/787.1c18ff26.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1605758b.css",
+    "static/js/main.7de2c877.js"
+  ]
+}
